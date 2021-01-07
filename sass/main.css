@@ -677,7 +677,7 @@ hr {
 }
 
 .blog__news1 {
-  background-image: url(/img/down1.jpg);
+  background-image: url(img/down1.jpg);
   width: 16rem;
   height: 15rem;
   background-size: cover;
@@ -689,7 +689,7 @@ hr {
 }
 
 .blog__news2 {
-  background-image: url(/img/down2.jpg);
+  background-image: url(img/down2.jpg);
   width: 16rem;
   height: 15rem;
   background-size: cover;
@@ -701,7 +701,7 @@ hr {
 }
 
 .blog__news3 {
-  background-image: url(/img/down3.jpg);
+  background-image: url(img/down3.jpg);
   width: 16rem;
   height: 15rem;
   background-size: cover;
